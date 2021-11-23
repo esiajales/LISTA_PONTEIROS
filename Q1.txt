@@ -1,0 +1,4 @@
+Os ponteiros na linguagem C podem apontar para qualquer tipo de variável e guardar seu endereço de memória, isto é útil, 
+pois ao se criar códigos complexos e extensos pode-se utilizar os valores da variável em qualquer parte do código acessando seu endereço de memória. 
+Dessa forma, há a criação de códigos mais dinâmicos e práticos utilizando essa função independente, 
+que podem ser aplicados das mais diversas formas para programação eletrônica e de controle na área de engenharia. 
