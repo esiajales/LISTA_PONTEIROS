@@ -1,0 +1,4 @@
+a) p = mat + 1; válida, já que p pode receber o valor na memória do segundo elemento do vetor mat. 
+b) p = mat; válida, já que p pode receber o valor na memória do primeiro elemento do vetor mat. 
+c) p =`mat; inválida, pois o apóstrofo faz com que `mat não seja uma variável válida. 
+d) x = (*mat); válida, pois x irá receber o valor do primeiro elemento do vetor mat. 
