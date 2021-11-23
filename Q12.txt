@@ -1,0 +1,3 @@
+O uso do ponteiro é para definir qual função será executada em qualquer parte do código sem precisar declarar novamente as variáveis da função, 
+já que o ponteiro apontará para ela. 
+Aqui temos um programa que exemplifica o uso de ponteiros apontando para funções.
