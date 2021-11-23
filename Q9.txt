@@ -1,0 +1,2 @@
+ O primeiro programa exibe os valores de cada posição do vetor. 
+ O segundo programa exibe o a posição dos elementos do vetor em hexadecimal. 
