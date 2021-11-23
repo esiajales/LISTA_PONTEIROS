@@ -1,0 +1,1 @@
+Resultados esperados, pois à medida que o contador avança os endereços e valores mostrados avançam igualmente pela memória. 
