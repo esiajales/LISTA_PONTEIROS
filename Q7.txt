@@ -1,0 +1,4 @@
+	Acreditamos que a expressão “*(pulo + 2);” é a única que referencia o valor do terceiro elemento do vetor,
+  porque o sinal do ponteiro (*) recebe o valor que o elemento do vetor possui,
+  diferentemente da expressão “pulo + 2;” que indica o endereço do terceiro elemento do vetor. 
+
