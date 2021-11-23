@@ -1,0 +1,2 @@
+Com a função qsort(), a implementação do código fica alguns milésimos de segundo mais rápida.
+Essa rapidez tende a aumentar a medida que o vetor recebe mais elementos para serem ordenados.
